@@ -1,8 +1,8 @@
 # Your Name or Company
-title: Uni Kravitz
+title: Sarah Raviola
 
 # Description of your website. This is used for social sharing.
-description:  The beautiful website of artist, poet, craftsperson, cyclist, and avid juggler, Uni Kravitz.
+description:  Sarah Raviola website
 
 # A brief blurb about yourself
 content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum.
@@ -10,11 +10,9 @@ content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis cons
 # Add your social links
 social:
   - platform: github
-    url: https://github.com/brianmaierjr
-  - platform: facebook
-    url: https://facebook.com/brianmaierjr
+    url: https://github.com/sarahraviola
   - platform: twitter
-    url: https://twitter.com/brianmaierjr
+    url: https://twitter.com/sarahraviola
   - platform: linkedin
     url: brianmaierjr
 
