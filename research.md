@@ -3,7 +3,7 @@ layout: other
 title: Research
 ---
 
-# Normal Text
+<h2 align="center"> Normal Text </h2>
 
 <p align="center">
   <b> # Some Links:</b><br>
