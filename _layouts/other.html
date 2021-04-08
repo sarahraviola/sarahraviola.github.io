@@ -2,11 +2,12 @@
 <html class="no-js" lang="en">
 
 {% include head.html %}
-{% include navigation.html %}
+
   
-<body class="half">
+<body>
 
   <main>
+    {% include navigation.html %}
     <div class="half--{{ site.half_side }} half__content">
       {{ content }}
     </div>
