@@ -10,7 +10,7 @@ content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis cons
 # Add your social links
 social:
   - platform: email
-    url: sarah.raviola@duke.edu
+    url: mailto:sarah.raviola@duke.edu
   - platform: twitter
     url: https://twitter.com/sarahraviola
   - platform: github
