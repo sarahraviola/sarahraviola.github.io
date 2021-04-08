@@ -9,12 +9,13 @@ content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis cons
 
 # Add your social links
 social:
-  - platform: github
-    url: https://github.com/sarahraviola
+  - platform: email
+    url: sarah.raviola@duke.edu
   - platform: twitter
     url: https://twitter.com/sarahraviola
-  - platform: linkedin
-    url: brianmaierjr
+  - platform: github
+    url: https://github.com/sarahraviola
+
 
 # General settings
 # url: http://brianmaierjr.github.com/uni
