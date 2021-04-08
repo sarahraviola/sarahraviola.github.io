@@ -2,6 +2,6 @@
 layout: other
 title: Research
 ---
-# About page
+<center> # Research </center>
 
 This page tells you a little bit about me.
