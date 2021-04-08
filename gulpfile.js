@@ -30,9 +30,9 @@ gulp.task('jekyll-rebuild', gulp.series('jekyll-build', function () {
  * Compile files from _scss into both _site/css (for live injecting) and site (for future jekyll builds)
  */
 gulp.task('sass', function () {
-    return gulp.src('assets/css/style.scss')
+    return gulp.src('./assets/css/style.scss')
         .pipe(sass({
-            includePaths: ['css'],
+            includePaths: ['./assets/css'],
             onError: browserSync.notify
         }))
         .pipe(prefix(['last 3 versions'], { cascade: true }))
