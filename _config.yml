@@ -24,6 +24,9 @@ markdown: kramdown
 sharing_image: share.jpg
 google_analytics: "UA-58263416-1" # google analytics tracking
 
+sass:
+    sass_dir: ./assets/ccs
+
 #### LAYOUT OPTIONS #####
 
 # Half layout
