@@ -306,7 +306,7 @@ RESPONSIVE BREAKPOINTS
 ***************/
 $breakpoints: (md: 768px);
 
-@import "base/mixins";
+/* @import "base/mixins";
 @import "base/typography";
 @import "base/global";
 
@@ -321,4 +321,4 @@ $breakpoints: (md: 768px);
 @import "layouts/half";
 @import "layouts/other";
 @import "layouts/full";
-@import "layouts/card";
+@import "layouts/card"; */
