@@ -32,7 +32,7 @@ gulp.task('jekyll-rebuild', gulp.series('jekyll-build', function () {
 gulp.task('sass', function () {
     return gulp.src('./assets/css/style.scss')
         .pipe(sass({
-            includePaths: ['./assets/css'],
+            includePaths: ['assets/css'],
             onError: browserSync.notify
         }))
         .pipe(prefix(['last 3 versions'], { cascade: true }))
