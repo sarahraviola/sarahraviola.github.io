@@ -1,6 +1,5 @@
 ---
 layout: other
-title: Research
 ---
 
 <h1 class = "pageTitle"> Some Research </h1>
