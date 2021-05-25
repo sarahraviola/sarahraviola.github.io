@@ -1,8 +1,13 @@
 ---
 layout: other
+title: research
 ---
 
 <h1 class = "pageTitle"> Some Research </h1>
+
+<p align="center">
+  <b>
+</p>
 
 <p align="center">
   <b> Some Links:</b><br>
