@@ -6,7 +6,7 @@ title: research
 <h1 class = "pageTitle"> Some Research </h1>
 
 <p align="center">
-  <b>
+  <br><br>
 </p>
 
 <p align="center">
