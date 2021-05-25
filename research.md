@@ -3,11 +3,9 @@ layout: other
 title: research
 ---
 
-<h1 class = "pageTitle"> Some Research </h1>
-
-<p>
+<h1 class = "pageTitle"> Some Research 
   <br><br>
-</p>
+</h1>
 
 <p align="left">
   <b> Some Links:</b><br>
