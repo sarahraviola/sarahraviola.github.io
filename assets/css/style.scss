@@ -683,7 +683,7 @@ BUTTON DEFAULTS
 
     &.half--left {
       @include min(md) {
-        order: 1;
+        order: 2;
         flex-basis: 0.75;
         max-width: 40vw;
       }
