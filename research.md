@@ -5,12 +5,12 @@ title: research
 
 <h1 class = "pageTitle"> Some Research </h1>
 
-<p align="center">
+<p>
   <br><br>
 </p>
 
 <p align="center">
   <b> Some Links:</b><br>
-  centering some more information
+  centering some more information (in construction)
   <br><br>
 </p>
