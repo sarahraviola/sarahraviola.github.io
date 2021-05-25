@@ -677,27 +677,24 @@ BUTTON DEFAULTS
   .socialLinks__link_head {
     @include button--outline2();
   }
-	
-  &__content {
-    order: 2;
 
+  &__content {
     &.half--left {
       @include min(md) {
-        order: 2;
         flex-basis: 0.75;
         max-width: 40vw;
       }
     }
   }
 
-  &__image {
+/*  &__image {
     min-height: 50vh;
     order: 1;
     background-size: cover;
     background-position: center;
     @include responsivebackground("half-sm.jpg", "half-md.jpg", "half-lg.jpg");
   }
-}
+} */
 
 /*@import "layouts/full";
 @import "layouts/card"; */
