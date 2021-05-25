@@ -9,7 +9,7 @@ title: research
   <br><br>
 </p>
 
-<p align="center">
+<p align="left">
   <b> Some Links:</b><br>
   centering some more information (in construction)
   <br><br>
