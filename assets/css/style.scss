@@ -476,6 +476,7 @@ body {
   color: black;
   overflow-x: hidden;
   margin: 10;
+  flex-direction: column
 
   @include min(md) {
     font-size: 112.5%;
