@@ -1,14 +1,8 @@
 ---
 layout: other
-title: research
+title: Research
 ---
 
-<h1 class = "pageTitle"> Some Research 
-  <br><br>
-</h1>
+**Page in construction**
 
-<p align="left">
-  <b> Some Links:</b><br>
-  centering some more information (in construction!)
-  <br><br>
-</p>
+More information will follow soon
