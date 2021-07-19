@@ -5,8 +5,8 @@ title: Teaching
 
 <h1 class = "pageTitle"> Some Teaching </h1>
 
-<p align="left">
+<h6 align="left">
   <b> Some Links:</b><br>
   centering some more information
   <br><br>
-</p>
+</h6>
