@@ -3,7 +3,7 @@ layout: other
 title: Research
 ---
 
-<h1 class = "pageTitle"> Some Teaching </h1>
+<h1 class = "pageTitle"> Some Research </h1>
 
 **Page in construction**
 
