@@ -6,7 +6,14 @@ title: Teaching
 <h1 class = "pageTitle"> Teaching </h1>
 
 <h3> Duke University, School of Law </h3>
-Law319 - Analytical Methods for Lawyers, Fall 2020 and Fall 2021 (professor: John de Figueiredo)
+
+<ul>
+  <li>Law319 - Analytical Methods for Lawyers, Fall 2020 and Fall 2021 (professor: John de Figueiredo) </li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+
+
 
 <h3> Duke University, Department of Economics </h3>
 
