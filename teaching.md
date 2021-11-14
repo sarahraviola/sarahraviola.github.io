@@ -5,22 +5,15 @@ title: Teaching
 
 <h1 class = "pageTitle"> Teaching </h1>
 
-<h3> Duke University, School of Law </h3>
+<h4> Duke University, School of Law </h4>
 
 <ul>
-  <li>Law319 - Analytical Methods for Lawyers, Fall 2020 and Fall 2021 (professor: John de Figueiredo) </li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>Fall 2020 and Fall 2021: <i> Law319 - Analytical Methods for Lawyers</i> (Teaching Assistant for professor John de Figueiredo) </li>
 </ul>
 
-
-
-<h3> Duke University, Department of Economics </h3>
-
-<b> Head Teaching Assistant </b>
-Econ210 - Intermediate Macroeconomics, Fall 2019 (professor: Cosmin Ilut) - Average student
-evaluation: 4 /4
-Econ210 - Intermediate Macroeconomics, Spring 2019 (professor: Kyle Jurado) - Average student
-evaluation: 4/4
-Econ210 - Intermediate Macroeconomics, Fall 2018 (professor: Andrea Lanteri) - Average student
-evaluation: 2.6/4
+<h4> Duke University, Department of Economics </h4>
+<ul>
+  <li>Fall 2019: Econ210 - Intermediate Macroeconomics (Head Teaching Assistant for professor Cosmin Ilut) - Average student evaluation: 4 /4</li>
+  <li> Spring 2019: Econ210 - Intermediate Macroeconomics (Head Teaching Assistant for professor Kyle Jurado) - Average student evaluation: 4/4 </li>
+  <li> Fall 2018: Econ210 - Intermediate Macroeconomics,  (Head Teaching Assistant for professor Andrea Lanteri) - Average student evaluation: 2.6/4 </li>
+</ul>
