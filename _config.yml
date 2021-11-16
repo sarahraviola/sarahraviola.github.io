@@ -14,9 +14,8 @@ social:
     url: mailto:sarah.raviola@duke.edu
   - platform: twitter
     url: https://twitter.com/sarahraviola
-  - platform: github
-    url: https://github.com/sarahraviola
-
+  - platform: linkedin
+    url: www.linkedin.com/in/sarah-raviola
 
 # General settings
 # url: http://brianmaierjr.github.com/uni
