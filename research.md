@@ -6,7 +6,7 @@ title: Research
 <h1 class = "pageTitle"> Research </h1>
 
 
-<b> Community Land Trusts and Neighborhood Outcomes </b> with [Omer Ali](https://sites.google.com/site/omeraaali/)  <!–– <a href="/Ali_Raviola_CLT.pdf"> (Draft) </a> ––>
+<b> Community Land Trusts and Neighborhood Outcomes </b> with [Omer Ali](https://sites.google.com/site/omeraaali/)  <a href="/Ali_Raviola_CLT.pdf"> (Draft) </a>
 
 <p align="left">
 This paper studies the effect of Community Land Trusts (CLTs) on neighborhood composition and affordability. CLTs are non-profit organizations that buy and resell houses at subsidized prices with a unique feature: the trust retains ownership of the land and leases it to homeowners with long-term agreements to limit resale price and maintain affordability. CLTs have gained renewed attention as a possible solution to the shrinking stock of affordable housing, in part because they also create pathways from renting to homeownership. An important question is whether a CLT - aside from making the purchased dwelling permanently affordable - generates spillover effects on surrounding house prices through changes in neighborhood amenities. We
